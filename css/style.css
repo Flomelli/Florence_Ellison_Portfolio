@@ -87,7 +87,7 @@ button {
 .card.hover,
 .bpb {
     transform: scale(1.1);
-    box-shadow: 15px 15px 20px #FFA101;
+    box-shadow: 15px 15px 20px #5FBFE9;
     transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
@@ -121,13 +121,6 @@ h3 {
     width: 670px;
     margin-top: -109px;
     margin-left: -175px;
-}
-
-.card.hover,
-.atc {
-    transform: scale(1.1);
-    box-shadow: 15px 15px 20px #ECD5E3;
-    transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
 .atc {
